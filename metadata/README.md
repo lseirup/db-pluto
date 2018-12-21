@@ -1,14 +1,9 @@
 # PLUTO METADATA README
-## November 2018 (18v1.1)
+## December 2018 (18v2)
 
 ### Announcements
 
-Version 18v1.1 is not a full PLUTO update. Fields related to zoning have been updated to
-incorporate all rezonings through 10/26/18. The methodology used to assign zoning to a tax lot
-has also changed. Please see the Appendix for a list of all fields that have been updated, as
-well as for details on the methodology used.
-In addition, version 18v1.1 corrects the Land Use for Building Class C7 from 2 (Multi-Family
-Walk-Up Buildings) to 4 (Mixed Residential & Commercial Buildings).
+The methodology used to create PLUTO and MapPLUTO has been changed with Version 18v2. The code to generate PLUTO has been completely rewritten in SQL. To improve transparency, the code can be seen at https://github.com/NYCPlanning/db_pluto. 
 
 ### WHAT IS PLUTO?&trade;
 
@@ -47,13 +42,13 @@ The PLUTO data is usually updated twice a year. Check the City Planning web site
 www.nyc.gov/planning for update status. The date of the eight source data files and the base
 map used to create PLUTO18v1.1 are:
 
-### PLUTO 18v1.1 - DATES OF DATA
+### PLUTO 18v2 - DATES OF DATA
 
 |**SOURCE**|**DATE OF DATA**|
 |---|---|
-|Department of City Planning - Political and Administrative Districts|January 15, 2018|
-|Department of Finance - Digital Tax Map|April 5, 2018|
-|Department of City Planning - NYC GIS Zoning Features|Oct 26, 2018|
+|Department of City Planning - Political and Administrative Districts|November 19, 2018|
+|Department of Finance - Digital Tax Map|December 21, 2018|
+|Department of City Planning - NYC GIS Zoning Features|December 21, 2018|
 |Department of City Planning - E Designations|May 15, 2018|
 |Department of Citywide Administrative Services - City Ownership Code|April 20, 2018|
 |Department of Finance - RAPD Master File|May 18, 2018|
